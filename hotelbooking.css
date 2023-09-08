@@ -1,0 +1,161 @@
+.logo{
+    display: inline-block;
+    margin-right: 440px;
+    margin-left: 10px;
+  }
+  .title{
+    display: inline-block;
+  }
+  .title a{
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: large;
+  }
+  button{
+    background-color: orangered;
+    border-radius: 5px;
+    border-color: orangered;
+    height: 30px;
+    width: 170px;
+    cursor: pointer;
+  }
+  .page{
+    margin-top: 12px;
+    padding-left: 40px;
+    background-color: yellow;
+    height: 500px;
+    color: white;
+    background-image: url("./images/view.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .sec{
+    display: inline-block;
+  }
+  .logo{
+    font-size: 30px;
+  }
+  .date{
+    padding-top: 4px;
+    height: 60px;
+    background-color: black;
+  }
+  .date p{
+    padding-left: 50px;
+    padding-right: 27px;
+    color: white;
+    display: inline-block;
+  }
+  input{
+    margin-right: 13px;
+    height: 24px;
+    width: 170px;
+  }
+  
+  #Hotel-deals {
+    padding: 50px;
+  }
+  
+  .section-title h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .section-title span {
+    color: #333;
+  }
+  
+  .d-flex {
+    margin-top: 30px;
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+  }
+  
+  .section-image img {
+    max-width: 100%;
+  }
+  
+  .description p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin-left: 20px; 
+  }
+  
+  .img2, .img1,.img3{
+    display: inline-block;
+  }
+  
+  .rooms   {
+    /* margin-top: 40px;
+    margin-left: 70px; */
+    width: 1300px;
+    height: 400px;
+    margin-top: 30px;
+    display: flex;
+    overflow: hidden;
+  }
+  .nm{
+  display: flex;
+  overflow: hidden;
+  align-items: center ;
+  justify-content: space-around;
+  }
+  .box{
+    margin: 10px;
+    width: 800px;
+    height: 420px;
+    box-shadow: -1px 0 10px #000000;
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+    animation: scroll 20s linear infinite;
+  }
+  
+  #contact-us{
+  padding: 50px;
+  background-image:url(./images/view3.jpg);
+  }
+  
+  .contact-form{
+    margin-right: 13px;
+    height: 24px;
+    width: 170px;
+  }
+  
+  footer{
+    margin-top: 50px;
+    padding: 50px 20px;
+    /* background: #f1faec; */
+    background: orangered;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .cont{
+    text-align: center;
+  }
+  .last{
+    text-align: justify;
+  }
+  
+  footer>div{
+    flex: 1 0 50%;
+  }
+  
+  footer .left{
+    margin-left: 50px;
+    border-left: 2px dashed greenyellow;
+    padding-left: 30px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
