@@ -7,6 +7,7 @@ This website was created with the following tools:
 <li>HTML</li>
 <li>CSS</li>
 <li>JAVASCRIPT</li>
+ <li>BOOTSTRAP</li>
 </ol>
 
 ## PRE-REQUISITES
@@ -64,7 +65,7 @@ Clinton Oliera [Clinton](https://github.com/ClintonOliera)
 Lucy Karwitha
 
 ## ISSUES
-There are no known issues.
+The contact us page and car booking page are not working correctly.
 
 
 ## LISENCE
