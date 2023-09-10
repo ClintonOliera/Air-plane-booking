@@ -61,7 +61,6 @@
   margin: 0;
   padding: 80px 0;
   list-style: none;
-  /* changing background color of the menu */
   background-color: rgba(41, 41, 95, 0.347);
   box-shadow: 1px 0px 6px rgba(0, 0, 0, 0.2);
   transition-duration: 0.25s;
@@ -96,7 +95,7 @@ header p {
 
 #Airplane {
     padding: 50px;
-    background-color: orangered;
+    background-color: white;
   }
   
   .section-title h1 {
@@ -132,8 +131,8 @@ footer {
 
 button {
   padding: 5px 10px;
-  background-color: black;
-  color: orangered;
-  border: black;
+  background-color: orangered;
+  color: white;
+  border: orangered;
   cursor: pointer;
 }
